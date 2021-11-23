@@ -1,0 +1,56 @@
+19110225
+Doan Quoc Viet
+GMH1
+7
+GMH2
+5
+GMHP
+6
+19110226
+Quach Dieu Khanh
+GMH1
+5
+GMH2
+9
+GMHP
+4
+19110229
+Nguyen Van A
+GMH1
+2
+GMH2
+6
+NULL
+-1
+19110123
+Do Truong Giang
+GMH1
+5
+GMH2
+9
+GMHP
+1
+19110101
+Nguyen Van A
+GMH1
+5
+GMH2
+7
+NULL
+-1
+19110025
+Le Thi B
+GMH1
+7
+GMH2
+8
+GMHP
+0
+19110042
+Tran Van C
+GMH1
+2
+GMH2
+5
+GMHP
+10
