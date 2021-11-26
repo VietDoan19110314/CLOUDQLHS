@@ -257,7 +257,7 @@ void XuatKhiCo_MMH(HocVien sv[],int studentAdded) {
 int ThemMonHocPhu(HocVien sv[],int studentAdded) {
 	HocVien cur;
 	string check_MSHV;
-	cout << "Enter the student number of the student who needs to add extra subjects";
+	cout << "Enter the student number of the student who needs to add extra subjects: ";
 	getline(cin, check_MSHV);
 	for(int i = 0; i<studentAdded; i++) {
 		cur = sv[i];
